@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ASUS\\Desktop\\test api1\\wealthi2023\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\USER\\Downloads\\wealthi2023\\wealthi2023\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-3\\274ded0460e5678d227cd2bda28cb073\\transformed\\jetified-iovation-5.1.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,143,226",
-                        "endColumns": "87,82,65",
-                        "endOffsets": "138,221,287"
-                    },
-                    "to": {
-                        "startLines": "92,93,94",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "5391,5479,5562",
-                        "endColumns": "87,82,65",
-                        "endOffsets": "5474,5557,5623"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-3\\dd59a46b1ec263b44e8f4494e5e3095e\\transformed\\jetified-window-1.0.0-beta04\\res\\values\\values.xml",
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\dd59a46b1ec263b44e8f4494e5e3095e\\transformed\\jetified-window-1.0.0-beta04\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,7,8,9,10,11,19,23,34,51",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -40,26 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ASUS\\Desktop\\test api1\\wealthi2023\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,832",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "483,998"
-                    },
-                    "to": {
-                        "startLines": "96,101",
-                        "startColumns": "4,4",
-                        "startOffsets": "5699,6007",
-                        "endLines": "100,103",
-                        "endColumns": "12,12",
-                        "endOffsets": "6002,6171"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-3\\5251c19be8d65a8c805d3f3e425be9e6\\transformed\\jetified-core-1.5.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\5251c19be8d65a8c805d3f3e425be9e6\\transformed\\jetified-core-1.5.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,11",
                         "startColumns": "0,0",
@@ -78,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-3\\d6998539b7199891d7e780ebd996e011\\transformed\\core-1.6.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\d6998539b7199891d7e780ebd996e011\\transformed\\core-1.6.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,89,90,94,95,96,97,104,111,159,191,228",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -94,6 +58,42 @@
                         "endLines": "2,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,95,104,108,109,113,114,129,130,149,156,204,236,273,280",
                         "endColumns": "59,71,87,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,57,60,62,56,50,49,60,56,65,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24,24",
                         "endOffsets": "110,518,606,675,738,808,876,948,1018,1079,1153,1226,1287,1348,1410,1474,1536,1597,1665,1765,1825,1891,1964,2033,2090,2142,2204,2276,2352,2417,2476,2535,2595,2655,2715,2775,2835,2895,2955,3015,3075,3135,3194,3254,3314,3374,3434,3494,3554,3614,3674,3734,3794,3853,3913,3973,4032,4091,4150,4209,4268,4327,4422,4457,4512,4575,4630,4688,4746,4807,4870,4927,4978,5028,5089,5146,5212,5246,5281,5316,5386,5694,6288,6489,6599,6800,6929,7743,7810,8862,9160,12460,14525,16285,16662"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\USER\\Downloads\\wealthi2023\\wealthi2023\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,832",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "483,998"
+                    },
+                    "to": {
+                        "startLines": "96,101",
+                        "startColumns": "4,4",
+                        "startOffsets": "5699,6007",
+                        "endLines": "100,103",
+                        "endColumns": "12,12",
+                        "endOffsets": "6002,6171"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\274ded0460e5678d227cd2bda28cb073\\transformed\\jetified-iovation-5.1.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,143,226",
+                        "endColumns": "87,82,65",
+                        "endOffsets": "138,221,287"
+                    },
+                    "to": {
+                        "startLines": "92,93,94",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "5391,5479,5562",
+                        "endColumns": "87,82,65",
+                        "endOffsets": "5474,5557,5623"
                     }
                 }
             ]

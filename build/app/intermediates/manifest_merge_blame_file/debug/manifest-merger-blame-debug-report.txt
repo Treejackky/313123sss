@@ -13,55 +13,55 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:2:5-66
-15-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:2:22-64
+15-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:2:5-66
+15-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:2:22-64
 16    <uses-permission android:name="android.permission.BLUETOOTH" />
-16-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:3:5-67
-16-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:3:22-65
+16-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:3:5-67
+16-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:3:22-65
 17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-17-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:4:5-75
-17-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:4:22-73
+17-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:4:5-75
+17-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:4:22-73
 18    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
-18-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:5:5-73
-18-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:5:22-71
+18-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:5:5-73
+18-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:5:22-71
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-19-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:6:5-78
-19-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:6:22-76
+19-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:6:5-78
+19-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:6:22-76
 20    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-20-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:7:5-70
-20-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:7:22-68
+20-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:7:5-70
+20-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:7:22-68
 21    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
-21-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:8:5-76
-21-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:8:22-74
+21-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:8:5-76
+21-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:8:22-74
 22    <uses-permission android:name="android.permission.READ_CALENDAR" />
-22-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:9:5-71
-22-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:9:22-69
+22-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:9:5-71
+22-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:9:22-69
 23    <uses-permission android:name="android.permission.READ_CONTACTS" />
-23-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:10:5-71
-23-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:10:22-69
+23-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:10:5-71
+23-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:10:22-69
 24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-24-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:11:5-79
-24-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:11:22-77
+24-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:11:5-79
+24-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:11:22-77
 25    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
-25-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:12:5-74
-25-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:12:22-72
+25-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:12:5-74
+25-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:12:22-72
 26    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-26-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:13:5-75
-26-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:13:22-73
+26-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:13:5-75
+26-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:13:22-73
 27    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
-27-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:14:5-74
-27-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:14:22-72
+27-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:14:5-74
+27-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:14:22-72
 28    <uses-permission android:name="android.permission.READ_SMS" />
-28-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:15:5-66
-28-->C:\Users\ASUS\Desktop\test api1\wealthi2023\android\app\src\main\AndroidManifest.xml:15:22-64
+28-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:15:5-66
+28-->C:\Users\USER\Downloads\wealthi2023\wealthi2023\android\app\src\main\AndroidManifest.xml:15:22-64
 29    <uses-permission android:name="android.permission.REORDER_TASKS" />
-29-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:5-72
-29-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:22-69
+29-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:5-72
+29-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:24:22-69
 30
 31    <application
 32        android:name="android.app.Application"
 33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-33-->[androidx.core:core:1.6.0] C:\Users\ASUS\.gradle\caches\transforms-3\d6998539b7199891d7e780ebd996e011\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+33-->[androidx.core:core:1.6.0] C:\Users\USER\.gradle\caches\transforms-3\d6998539b7199891d7e780ebd996e011\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 34        android:debuggable="true"
 35        android:icon="@mipmap/ic_launcher"
 36        android:label="flutter_application_1" >
@@ -88,8 +88,8 @@
 57                <action android:name="android.intent.action.MAIN" />
 58
 59                <category android:name="android.intent.category.LAUNCHER" />
-59-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:17-77
-59-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:27-74
+59-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:17-77
+59-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:27-74
 60            </intent-filter>
 61        </activity>
 62        <!--
@@ -101,73 +101,73 @@
 68            android:value="2" />
 69
 70        <uses-library
-70-->[androidx.window:window:1.0.0-beta04] C:\Users\ASUS\.gradle\caches\transforms-3\dd59a46b1ec263b44e8f4494e5e3095e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+70-->[androidx.window:window:1.0.0-beta04] C:\Users\USER\.gradle\caches\transforms-3\dd59a46b1ec263b44e8f4494e5e3095e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 71            android:name="androidx.window.extensions"
-71-->[androidx.window:window:1.0.0-beta04] C:\Users\ASUS\.gradle\caches\transforms-3\dd59a46b1ec263b44e8f4494e5e3095e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+71-->[androidx.window:window:1.0.0-beta04] C:\Users\USER\.gradle\caches\transforms-3\dd59a46b1ec263b44e8f4494e5e3095e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
 72            android:required="false" />
-72-->[androidx.window:window:1.0.0-beta04] C:\Users\ASUS\.gradle\caches\transforms-3\dd59a46b1ec263b44e8f4494e5e3095e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+72-->[androidx.window:window:1.0.0-beta04] C:\Users\USER\.gradle\caches\transforms-3\dd59a46b1ec263b44e8f4494e5e3095e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
 73        <uses-library
-73-->[androidx.window:window:1.0.0-beta04] C:\Users\ASUS\.gradle\caches\transforms-3\dd59a46b1ec263b44e8f4494e5e3095e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+73-->[androidx.window:window:1.0.0-beta04] C:\Users\USER\.gradle\caches\transforms-3\dd59a46b1ec263b44e8f4494e5e3095e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
 74            android:name="androidx.window.sidecar"
-74-->[androidx.window:window:1.0.0-beta04] C:\Users\ASUS\.gradle\caches\transforms-3\dd59a46b1ec263b44e8f4494e5e3095e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+74-->[androidx.window:window:1.0.0-beta04] C:\Users\USER\.gradle\caches\transforms-3\dd59a46b1ec263b44e8f4494e5e3095e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
 75            android:required="false" />
-75-->[androidx.window:window:1.0.0-beta04] C:\Users\ASUS\.gradle\caches\transforms-3\dd59a46b1ec263b44e8f4494e5e3095e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+75-->[androidx.window:window:1.0.0-beta04] C:\Users\USER\.gradle\caches\transforms-3\dd59a46b1ec263b44e8f4494e5e3095e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 76
 77        <provider
-77-->[com.credolab:modular.behavioral:4.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\b7b7cb38d08b0a7f191fd13f2cd1d633\transformed\jetified-modular.behavioral-4.0.0\AndroidManifest.xml:10:9-13:40
+77-->[com.credolab:modular.behavioral:4.0.0] C:\Users\USER\.gradle\caches\transforms-3\10f3c13a2e9388b9604f20c564a77bec\transformed\jetified-modular.behavioral-4.0.0\AndroidManifest.xml:10:9-13:40
 78            android:name="credoapp.module.behavioral.BehavioralProvider"
-78-->[com.credolab:modular.behavioral:4.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\b7b7cb38d08b0a7f191fd13f2cd1d633\transformed\jetified-modular.behavioral-4.0.0\AndroidManifest.xml:11:13-73
+78-->[com.credolab:modular.behavioral:4.0.0] C:\Users\USER\.gradle\caches\transforms-3\10f3c13a2e9388b9604f20c564a77bec\transformed\jetified-modular.behavioral-4.0.0\AndroidManifest.xml:11:13-73
 79            android:authorities="com.example.flutter_application_1.credoapp.behavioral.provider"
-79-->[com.credolab:modular.behavioral:4.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\b7b7cb38d08b0a7f191fd13f2cd1d633\transformed\jetified-modular.behavioral-4.0.0\AndroidManifest.xml:12:13-80
+79-->[com.credolab:modular.behavioral:4.0.0] C:\Users\USER\.gradle\caches\transforms-3\10f3c13a2e9388b9604f20c564a77bec\transformed\jetified-modular.behavioral-4.0.0\AndroidManifest.xml:12:13-80
 80            android:exported="false" />
-80-->[com.credolab:modular.behavioral:4.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\b7b7cb38d08b0a7f191fd13f2cd1d633\transformed\jetified-modular.behavioral-4.0.0\AndroidManifest.xml:13:13-37
+80-->[com.credolab:modular.behavioral:4.0.0] C:\Users\USER\.gradle\caches\transforms-3\10f3c13a2e9388b9604f20c564a77bec\transformed\jetified-modular.behavioral-4.0.0\AndroidManifest.xml:13:13-37
 81
 82        <activity
-82-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:27:9-34:20
+82-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:27:9-34:20
 83            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
-83-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:28:13-99
+83-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:28:13-99
 84            android:exported="true"
-84-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:29:13-36
+84-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:29:13-36
 85            android:theme="@style/WhiteBackgroundTheme" >
-85-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:30:13-56
+85-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:30:13-56
 86            <intent-filter android:priority="-100" >
-86-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
-86-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+86-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+86-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
 87                <category android:name="android.intent.category.LAUNCHER" />
-87-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:17-77
-87-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:27-74
+87-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:17-77
+87-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:27-74
 88            </intent-filter>
 89        </activity>
 90        <activity
-90-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:35:9-42:20
+90-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:35:9-42:20
 91            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
-91-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:36:13-95
+91-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:36:13-95
 92            android:exported="true"
-92-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:37:13-36
+92-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:37:13-36
 93            android:theme="@style/WhiteBackgroundTheme" >
-93-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:38:13-56
+93-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:38:13-56
 94            <intent-filter android:priority="-100" >
-94-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
-94-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+94-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+94-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
 95                <category android:name="android.intent.category.LAUNCHER" />
-95-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:17-77
-95-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:27-74
+95-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:17-77
+95-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:27-74
 96            </intent-filter>
 97        </activity>
 98        <activity
-98-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:43:9-50:20
+98-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:43:9-50:20
 99            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
-99-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:44:13-103
+99-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:44:13-103
 100            android:exported="true"
-100-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:45:13-36
+100-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:45:13-36
 101            android:theme="@style/WhiteBackgroundDialogTheme" >
-101-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:46:13-62
+101-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:46:13-62
 102            <intent-filter android:priority="-100" >
-102-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
-102-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
+102-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:13-33:29
+102-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:31:28-51
 103                <category android:name="android.intent.category.LAUNCHER" />
-103-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:17-77
-103-->[androidx.test:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:27-74
+103-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:17-77
+103-->[androidx.test:core:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\5251c19be8d65a8c805d3f3e425be9e6\transformed\jetified-core-1.5.0\AndroidManifest.xml:32:27-74
 104            </intent-filter>
 105        </activity>
 106    </application>

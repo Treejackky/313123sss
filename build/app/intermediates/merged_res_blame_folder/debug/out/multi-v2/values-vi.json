@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ASUS\\Desktop\\test api1\\wealthi2023\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
+            "outputFile": "C:\\Users\\USER\\Downloads\\wealthi2023\\wealthi2023\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-3\\d6998539b7199891d7e780ebd996e011\\transformed\\core-1.6.0\\res\\values-vi\\values-vi.xml",
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-3\\d6998539b7199891d7e780ebd996e011\\transformed\\core-1.6.0\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

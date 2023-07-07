@@ -1,9 +1,9 @@
-#Fri Jul 07 13:22:20 ICT 2023
-base.0=C\:\\Users\\ASUS\\Desktop\\test api1\\wealthi2023\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\ASUS\\Desktop\\test api1\\wealthi2023\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\ASUS\\Desktop\\test api1\\wealthi2023\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.3=C\:\\Users\\ASUS\\Desktop\\test api1\\wealthi2023\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.4=C\:\\Users\\ASUS\\Desktop\\test api1\\wealthi2023\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+#Fri Jul 07 14:39:29 ICT 2023
+base.0=C\:\\Users\\USER\\Downloads\\wealthi2023\\wealthi2023\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\USER\\Downloads\\wealthi2023\\wealthi2023\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\USER\\Downloads\\wealthi2023\\wealthi2023\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.3=C\:\\Users\\USER\\Downloads\\wealthi2023\\wealthi2023\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.4=C\:\\Users\\USER\\Downloads\\wealthi2023\\wealthi2023\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=0/classes.dex
