@@ -1,0 +1,18 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="credoapp.images" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\dart.cloudsmith.io%47credolab%47hybrid%47\flutter_android_images-5.0.0\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="16" />
+7-->C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\dart.cloudsmith.io%47credolab%47hybrid%47\flutter_android_images-5.0.0\android\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+9-->C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\dart.cloudsmith.io%47credolab%47hybrid%47\flutter_android_images-5.0.0\android\src\main\AndroidManifest.xml:4:5-76
+9-->C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\dart.cloudsmith.io%47credolab%47hybrid%47\flutter_android_images-5.0.0\android\src\main\AndroidManifest.xml:4:22-73
+10    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+10-->C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\dart.cloudsmith.io%47credolab%47hybrid%47\flutter_android_images-5.0.0\android\src\main\AndroidManifest.xml:5:5-80
+10-->C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\dart.cloudsmith.io%47credolab%47hybrid%47\flutter_android_images-5.0.0\android\src\main\AndroidManifest.xml:5:22-77
+11
+12</manifest>

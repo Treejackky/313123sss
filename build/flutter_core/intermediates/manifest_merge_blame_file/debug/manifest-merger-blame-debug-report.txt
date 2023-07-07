@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="credoappsdk.plugin.credoappsdk" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\dart.cloudsmith.io%47credolab%47hybrid%47\flutter_core-5.0.0\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="21" />
+7-->C:\Users\ASUS\AppData\Local\Pub\Cache\hosted\dart.cloudsmith.io%47credolab%47hybrid%47\flutter_core-5.0.0\android\src\main\AndroidManifest.xml
+8
+9</manifest>

@@ -1,0 +1,12 @@
+source 'https://dl.cloudsmith.io/KzfLB1RYYNCXNqr9/credolab/proxyen-sdk/cocoapods/index.git'
+source 'https://cdn.cocoapods.org/'
+
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'myapp' do
+    # pod 'Brightcove-Player-Core/dynamic'
+    # pod 'GoogleCloudMessaging'
+    # pod 'GGLInstanceID'
+end
